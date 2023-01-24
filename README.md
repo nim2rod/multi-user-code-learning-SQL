@@ -10,6 +10,7 @@ Test your JS knowledge with simple code blocks you need to complete!
 - MySQL database - using phpMyAdmin to mannage and 'freesqldatabase' as free server to host the database.
 - Render - deploy and host for the site. 
 - Link to live project:  https://js-hint-proj.onrender.com/
+- Link to clint side repository: https://github.com/nim2rod/multi-user-code-learning-client
 
 
 ## What the app do?
