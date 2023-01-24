@@ -7,7 +7,7 @@ Test your JS knowledge with simple code blocks you need to complete!
 - This repository is the Server side, using Node.JS with Express, using RestAPI and micro services for the abilty to maintain and expend the app easily. 
 - Socket.IO- Using Socket.io package package for real-time connections between multiply users.
 - Vue.JS with Vuex state management and Vite dev environment - Client side
-- MongoDB Atlas Database - database.
+- MySQL database - using phpMyAdmin to mannage and 'freesqldatabase' as free server to host the database.
 - Render - deploy and host for the site. 
 - Link to live project:  https://js-hint-proj.onrender.com/
 
